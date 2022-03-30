@@ -1,0 +1,6 @@
+F:\Day 23\EmployeeManagementTest\bin\Debug\net6.0\CoverletSourceRootsMapping
+F:\Day 23\EmployeeManagementTest\obj\Debug\net6.0\EmployeeManagementTest.csproj.AssemblyReference.cache
+F:\Day 23\EmployeeManagementTest\obj\Debug\net6.0\EmployeeManagementTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\Day 23\EmployeeManagementTest\obj\Debug\net6.0\EmployeeManagementTest.AssemblyInfoInputs.cache
+F:\Day 23\EmployeeManagementTest\obj\Debug\net6.0\EmployeeManagementTest.AssemblyInfo.cs
+F:\Day 23\EmployeeManagementTest\obj\Debug\net6.0\EmployeeManagementTest.csproj.CoreCompileInputs.cache
